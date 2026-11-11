@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "heater_name": "VEVOR 2kW 12V Diesel Air Heater (Campervan & Truck Cab)",
+    "slug": "vevor-2kw-12v-diesel-air-heater-campervan-truck-cab-kw-fuel-wire-calculator",
+    "title": "VEVOR 2kW 12V Diesel Air Heater (Campervan & Truck Cab) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.8L / 0.48 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for VEVOR 2kW 12V Diesel Air Heater (Campervan & Truck Cab).",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.8,
+    "night_ah": 19.4,
+    "date": "2026-11-11"
+  },
+  {
+    "heater_name": "VEVOR 5kW 12V All-in-One Diesel Air Heater (Garage & RV)",
+    "slug": "vevor-5kw-12v-all-in-one-diesel-air-heater-garage-rv-kw-fuel-wire-calculator",
+    "title": "VEVOR 5kW 12V All-in-One Diesel Air Heater (Garage & RV) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for VEVOR 5kW 12V All-in-One Diesel Air Heater (Garage & RV).",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-11"
+  },
+  {
+    "heater_name": "VEVOR 8kW 12V/24V Toolbox Diesel Heater (True 5kW Output)",
+    "slug": "vevor-8kw-12v24v-toolbox-diesel-heater-true-5kw-output-kw-fuel-wire-calculator",
+    "title": "VEVOR 8kW 12V/24V Toolbox Diesel Heater (True 5kW Output) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (5.0 kW / 17,060 BTU/hr), 10-hour fuel burn (3.3L / 0.87 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.7 Hz) for VEVOR 8kW 12V/24V Toolbox Diesel Heater (True 5kW Output).",
+    "kw": 5.0,
+    "btu": 17060,
+    "night_l": 3.3,
+    "night_ah": 25.4,
+    "date": "2026-11-11"
+  }
+]

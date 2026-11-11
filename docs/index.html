@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DieselHeaterIndex — 12V Diesel Air Heater 2kW vs 5kW, Fuel Burn, Wire Gauge & Altitude Hz Calculator (2026)</title>
+  <meta name="description" content="Calculate exact 12V/24V 2kW, 5kW, and 8kW diesel air heater BTU sizing, overnight fuel consumption (L/hr and gallons), 12V battery Ah draw, E-01 glow-plug wire gauge, and high-altitude pump Hz for campervans, tents, garages, and boats.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/diesel-heater-index/">
+  <link rel="alternate" type="application/rss+xml" title="DieselHeaterIndex RSS Feed" href="https://hanifsalman11.github.io/diesel-heater-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-orange-500 text-zinc-950 px-2 py-0.5 rounded font-black">DIESEL</span>HeaterIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=12V%2BDiesel%2BAir%2BHeater%2B2kW%2B5kW%2B8kW%2BTurret%2BPlate%2B100Ah%2BLiFePO4&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-orange-500 hover:bg-orange-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop 12V Diesel Heaters, Batteries & Install Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">12V Diesel Air Heater 2kW vs 5kW, Fuel Burn & Altitude Hz Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your campervan, tent, garage, or diesel heater model below to calculate 2kW vs. 5kW carbon-free sizing, 10-hour fuel and 12V LiFePO4 battery consumption, E-01 wire gauge, and high-altitude pump Hz settings.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search heater model or vehicle (e.g. Vevor 2kW, 5kW, Webasto STC, Espar D2, Sprinter 144, Ice Shanty, E-01 Error...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-orange-500">
+      </div>
+    </div>
+
+    <div id="htrGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="vevor-8kw-12v24v-toolbox-diesel-heater-true-5kw-output-kw-fuel-wire-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-zinc-950 px-2.5 py-0.5 rounded">5 kW (17,060 BTU)</span>
+            <span class="text-xs text-zinc-400">3.3L / 25.4Ah Night</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">VEVOR 8kW 12V/24V Toolbox Diesel Heater (True 5kW Output)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact diesel heater output (5.0 kW / 17,060 BTU/hr), 10-hour fuel burn (3.3L / 0.87 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.7 Hz) for VEVOR 8kW 12V/24V Toolbox Diesel Heater (True 5kW Output).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Fuel, 12V Ah & Altitude Hz →</span>
+        </a>
+        <a href="vevor-5kw-12v-all-in-one-diesel-air-heater-garage-rv-kw-fuel-wire-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-zinc-950 px-2.5 py-0.5 rounded">4.8 kW (16,380 BTU)</span>
+            <span class="text-xs text-zinc-400">3.0L / 25.4Ah Night</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">VEVOR 5kW 12V All-in-One Diesel Air Heater (Garage & RV)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for VEVOR 5kW 12V All-in-One Diesel Air Heater (Garage & RV).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Fuel, 12V Ah & Altitude Hz →</span>
+        </a>
+        <a href="vevor-2kw-12v-diesel-air-heater-campervan-truck-cab-kw-fuel-wire-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-zinc-950 px-2.5 py-0.5 rounded">2 kW (6,820 BTU)</span>
+            <span class="text-xs text-zinc-400">1.8L / 19.4Ah Night</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">VEVOR 2kW 12V Diesel Air Heater (Campervan & Truck Cab)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.8L / 0.48 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for VEVOR 2kW 12V Diesel Air Heater (Campervan & Truck Cab).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Fuel, 12V Ah & Altitude Hz →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 DieselHeaterIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('htrGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
