@@ -31,5 +31,38 @@
     "night_l": 3.3,
     "night_ah": 25.4,
     "date": "2026-11-11"
+  },
+  {
+    "heater_name": "Webasto Air Top 2000 STC (2.0 kW) 12V Diesel/Gas Van Heater",
+    "slug": "webasto-air-top-2000-stc-20-kw-12v-dieselgas-van-heater-kw-fuel-wire-calculator",
+    "title": "Webasto Air Top 2000 STC (2.0 kW) 12V Diesel/Gas Van Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.4 Hz) for Webasto Air Top 2000 STC (2.0 kW) 12V Diesel/Gas Van Heater.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-12"
+  },
+  {
+    "heater_name": "Webasto Air Top Evo 40 (4.0 kW) & Evo 55 (5.5 kW) Expedition",
+    "slug": "webasto-air-top-evo-40-40-kw-evo-55-55-kw-expedition-kw-fuel-wire-calculator",
+    "title": "Webasto Air Top Evo 40 (4.0 kW) & Evo 55 (5.5 kW) Expedition kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.0 kW / 13,650 BTU/hr), 10-hour fuel burn (2.9L / 0.77 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.4 Hz) for Webasto Air Top Evo 40 (4.0 kW) & Evo 55 (5.5 kW) Expedition.",
+    "kw": 4.0,
+    "btu": 13650,
+    "night_l": 2.9,
+    "night_ah": 25.4,
+    "date": "2026-11-12"
+  },
+  {
+    "heater_name": "Espar / Eberspächer Airtronic S2 D2L (2.2 kW) Brushless 12V",
+    "slug": "espar-eberspcher-airtronic-s2-d2l-22-kw-brushless-12v-kw-fuel-wire-calculator",
+    "title": "Espar / Eberspächer Airtronic S2 D2L (2.2 kW) Brushless 12V kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.2 kW / 7,510 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.6 Hz) for Espar / Eberspächer Airtronic S2 D2L (2.2 kW) Brushless 12V.",
+    "kw": 2.2,
+    "btu": 7510,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-12"
   }
 ]
