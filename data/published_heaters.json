@@ -64,5 +64,38 @@
     "night_l": 1.7,
     "night_ah": 19.4,
     "date": "2026-11-12"
+  },
+  {
+    "heater_name": "Espar / Eberspächer Airtronic M2 D4L (4.0 kW) Large Van/Boat",
+    "slug": "espar-eberspcher-airtronic-m2-d4l-40-kw-large-vanboat-kw-fuel-wire-calculator",
+    "title": "Espar / Eberspächer Airtronic M2 D4L (4.0 kW) Large Van/Boat kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.0 kW / 13,650 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.4 Hz) for Espar / Eberspächer Airtronic M2 D4L (4.0 kW) Large Van/Boat.",
+    "kw": 4.0,
+    "btu": 13650,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-12"
+  },
+  {
+    "heater_name": "Lavaner Pro 2kW Alpine (True 2.0 kW) High-Altitude Camper",
+    "slug": "lavaner-pro-2kw-alpine-true-20-kw-high-altitude-camper-kw-fuel-wire-calculator",
+    "title": "Lavaner Pro 2kW Alpine (True 2.0 kW) High-Altitude Camper kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for Lavaner Pro 2kW Alpine (True 2.0 kW) High-Altitude Camper.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-12"
+  },
+  {
+    "heater_name": "Lavaner Pro 5kW Alpine (True 4.8 kW) 12V Diesel Heater",
+    "slug": "lavaner-pro-5kw-alpine-true-48-kw-12v-diesel-heater-kw-fuel-wire-calculator",
+    "title": "Lavaner Pro 5kW Alpine (True 4.8 kW) 12V Diesel Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (2.9L / 0.77 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Lavaner Pro 5kW Alpine (True 4.8 kW) 12V Diesel Heater.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 2.9,
+    "night_ah": 25.4,
+    "date": "2026-11-12"
   }
 ]
