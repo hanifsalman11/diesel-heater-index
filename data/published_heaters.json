@@ -97,5 +97,38 @@
     "night_l": 2.9,
     "night_ah": 25.4,
     "date": "2026-11-12"
+  },
+  {
+    "heater_name": "Hcalory 5kW–8kW Bluetooth All-in-One Portable Diesel Heater",
+    "slug": "hcalory-5kw8kw-bluetooth-all-in-one-portable-diesel-heater-kw-fuel-wire-calculator",
+    "title": "Hcalory 5kW–8kW Bluetooth All-in-One Portable Diesel Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Hcalory 5kW–8kW Bluetooth All-in-One Portable Diesel Heater.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-13"
+  },
+  {
+    "heater_name": "Planar / Autoterm Air 2D (2.0 kW) & 4D (4.0 kW) Marine/Van",
+    "slug": "planar-autoterm-air-2d-20-kw-4d-40-kw-marinevan-kw-fuel-wire-calculator",
+    "title": "Planar / Autoterm Air 2D (2.0 kW) & 4D (4.0 kW) Marine/Van kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.6L / 0.42 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.4 Hz) for Planar / Autoterm Air 2D (2.0 kW) & 4D (4.0 kW) Marine/Van.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.6,
+    "night_ah": 19.4,
+    "date": "2026-11-13"
+  },
+  {
+    "heater_name": "Maxpeedingrods 5kW 12V Bluetooth Diesel Heater Setup",
+    "slug": "maxpeedingrods-5kw-12v-bluetooth-diesel-heater-setup-kw-fuel-wire-calculator",
+    "title": "Maxpeedingrods 5kW 12V Bluetooth Diesel Heater Setup kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.7 kW / 16,040 BTU/hr), 10-hour fuel burn (2.9L / 0.77 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.4 Hz) for Maxpeedingrods 5kW 12V Bluetooth Diesel Heater Setup.",
+    "kw": 4.7,
+    "btu": 16040,
+    "night_l": 2.9,
+    "night_ah": 25.4,
+    "date": "2026-11-13"
   }
 ]
