@@ -130,5 +130,38 @@
     "night_l": 2.9,
     "night_ah": 25.4,
     "date": "2026-11-13"
+  },
+  {
+    "heater_name": "LF Bros 5kW 12V/110V Dual-Power Portable Diesel Heater",
+    "slug": "lf-bros-5kw-12v110v-dual-power-portable-diesel-heater-kw-fuel-wire-calculator",
+    "title": "LF Bros 5kW 12V/110V Dual-Power Portable Diesel Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for LF Bros 5kW 12V/110V Dual-Power Portable Diesel Heater.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-13"
+  },
+  {
+    "heater_name": "Mercedes Sprinter 144 WB Campervan (2kW vs 5kW) Sizing",
+    "slug": "mercedes-sprinter-144-wb-campervan-2kw-vs-5kw-sizing-kw-fuel-wire-calculator",
+    "title": "Mercedes Sprinter 144 WB Campervan (2kW vs 5kW) Sizing kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for Mercedes Sprinter 144 WB Campervan (2kW vs 5kW) Sizing.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-13"
+  },
+  {
+    "heater_name": "Mercedes Sprinter 170 & 170 EXT Campervan Winter Heater",
+    "slug": "mercedes-sprinter-170-170-ext-campervan-winter-heater-kw-fuel-wire-calculator",
+    "title": "Mercedes Sprinter 170 & 170 EXT Campervan Winter Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.0 kW / 13,650 BTU/hr), 10-hour fuel burn (2.6L / 0.69 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.3 Hz) for Mercedes Sprinter 170 & 170 EXT Campervan Winter Heater.",
+    "kw": 4.0,
+    "btu": 13650,
+    "night_l": 2.6,
+    "night_ah": 25.4,
+    "date": "2026-11-13"
   }
 ]
