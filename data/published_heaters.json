@@ -196,5 +196,38 @@
     "night_l": 1.5,
     "night_ah": 19.4,
     "date": "2026-11-14"
+  },
+  {
+    "heater_name": "Insulated Ice Fishing Shanty & Hub Shelter (8x8 / 8x16) Heater",
+    "slug": "insulated-ice-fishing-shanty-hub-shelter-8x8-8x16-heater-kw-fuel-wire-calculator",
+    "title": "Insulated Ice Fishing Shanty & Hub Shelter (8x8 / 8x16) Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.5 kW / 15,350 BTU/hr), 10-hour fuel burn (2.8L / 0.74 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.4 Hz) for Insulated Ice Fishing Shanty & Hub Shelter (8x8 / 8x16) Heater.",
+    "kw": 4.5,
+    "btu": 15350,
+    "night_l": 2.8,
+    "night_ah": 25.4,
+    "date": "2026-11-14"
+  },
+  {
+    "heater_name": "2-Car Garage Workshop (480 Sq Ft) Single vs Dual 5kW/8kW",
+    "slug": "2-car-garage-workshop-480-sq-ft-single-vs-dual-5kw8kw-kw-fuel-wire-calculator",
+    "title": "2-Car Garage Workshop (480 Sq Ft) Single vs Dual 5kW/8kW kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (5.0 kW / 17,060 BTU/hr), 10-hour fuel burn (3.4L / 0.9 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.7 Hz) for 2-Car Garage Workshop (480 Sq Ft) Single vs Dual 5kW/8kW.",
+    "kw": 5.0,
+    "btu": 17060,
+    "night_l": 3.4,
+    "night_ah": 25.4,
+    "date": "2026-11-14"
+  },
+  {
+    "heater_name": "30-to-40 Ft Sailboat & Trawler Cabin Marine Diesel Heater",
+    "slug": "30-to-40-ft-sailboat-trawler-cabin-marine-diesel-heater-kw-fuel-wire-calculator",
+    "title": "30-to-40 Ft Sailboat & Trawler Cabin Marine Diesel Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.0 kW / 13,650 BTU/hr), 10-hour fuel burn (2.7L / 0.71 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.3 Hz) for 30-to-40 Ft Sailboat & Trawler Cabin Marine Diesel Heater.",
+    "kw": 4.0,
+    "btu": 13650,
+    "night_l": 2.7,
+    "night_ah": 25.4,
+    "date": "2026-11-14"
   }
 ]
