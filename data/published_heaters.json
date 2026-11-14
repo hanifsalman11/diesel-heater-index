@@ -163,5 +163,38 @@
     "night_l": 2.6,
     "night_ah": 25.4,
     "date": "2026-11-13"
+  },
+  {
+    "heater_name": "Ford Transit 148 High-Roof Campervan Diesel Heater Sizing",
+    "slug": "ford-transit-148-high-roof-campervan-diesel-heater-sizing-kw-fuel-wire-calculator",
+    "title": "Ford Transit 148 High-Roof Campervan Diesel Heater Sizing kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.2 kW / 7,510 BTU/hr), 10-hour fuel burn (1.8L / 0.48 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.6 Hz) for Ford Transit 148 High-Roof Campervan Diesel Heater Sizing.",
+    "kw": 2.2,
+    "btu": 7510,
+    "night_l": 1.8,
+    "night_ah": 19.4,
+    "date": "2026-11-14"
+  },
+  {
+    "heater_name": "Ram ProMaster 136 & 159 WB Campervan Diesel Heater Sizing",
+    "slug": "ram-promaster-136-159-wb-campervan-diesel-heater-sizing-kw-fuel-wire-calculator",
+    "title": "Ram ProMaster 136 & 159 WB Campervan Diesel Heater Sizing kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.2 kW / 7,510 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for Ram ProMaster 136 & 159 WB Campervan Diesel Heater Sizing.",
+    "kw": 2.2,
+    "btu": 7510,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-14"
+  },
+  {
+    "heater_name": "Overland Roof-Top Tent (RTT) & Truck Bed Camper 2kW Setup",
+    "slug": "overland-roof-top-tent-rtt-truck-bed-camper-2kw-setup-kw-fuel-wire-calculator",
+    "title": "Overland Roof-Top Tent (RTT) & Truck Bed Camper 2kW Setup kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.5L / 0.4 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.3 Hz) for Overland Roof-Top Tent (RTT) & Truck Bed Camper 2kW Setup.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.5,
+    "night_ah": 19.4,
+    "date": "2026-11-14"
   }
 ]
