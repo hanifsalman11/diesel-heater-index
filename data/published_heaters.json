@@ -361,5 +361,38 @@
     "night_l": 3.0,
     "night_ah": 25.4,
     "date": "2026-11-16"
+  },
+  {
+    "heater_name": "Diesel Heater Fuel Consumption Rate",
+    "slug": "diesel-heater-fuel-consumption-rate-kw-fuel-wire-calculator",
+    "title": "Diesel Heater Fuel Consumption Rate kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Diesel Heater Fuel Consumption Rate.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-16"
+  },
+  {
+    "heater_name": "Diesel Heater Fuel Efficiency",
+    "slug": "diesel-heater-fuel-efficiency-kw-fuel-wire-calculator",
+    "title": "Diesel Heater Fuel Efficiency kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Diesel Heater Fuel Efficiency.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-16"
+  },
+  {
+    "heater_name": "Diesel Heater Fuel Use",
+    "slug": "diesel-heater-fuel-use-kw-fuel-wire-calculator",
+    "title": "Diesel Heater Fuel Use kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Diesel Heater Fuel Use.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-16"
   }
 ]
