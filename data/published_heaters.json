@@ -460,5 +460,38 @@
     "night_l": 1.7,
     "night_ah": 19.4,
     "date": "2026-11-17"
+  },
+  {
+    "heater_name": "2Kw Or 5Kw Diesel Heater  Van",
+    "slug": "2kw-or-5kw-diesel-heater-van-kw-fuel-wire-calculator",
+    "title": "2Kw Or 5Kw Diesel Heater  Van kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for 2Kw Or 5Kw Diesel Heater  Van.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-18"
+  },
+  {
+    "heater_name": "2Kw Vs 5Kw Vs 8Kw Diesel Heater",
+    "slug": "2kw-vs-5kw-vs-8kw-diesel-heater-kw-fuel-wire-calculator",
+    "title": "2Kw Vs 5Kw Vs 8Kw Diesel Heater kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for 2Kw Vs 5Kw Vs 8Kw Diesel Heater.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-18"
+  },
+  {
+    "heater_name": "Chinese Diesel Heater 2Kw Vs 5Kw",
+    "slug": "chinese-diesel-heater-2kw-vs-5kw-kw-fuel-wire-calculator",
+    "title": "Chinese Diesel Heater 2Kw Vs 5Kw kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for Chinese Diesel Heater 2Kw Vs 5Kw.",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-18"
   }
 ]
