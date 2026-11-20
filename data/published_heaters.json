@@ -592,5 +592,27 @@
     "night_l": 3.0,
     "night_ah": 25.4,
     "date": "2026-11-19"
+  },
+  {
+    "heater_name": "Vevor Diesel Heater Instructions",
+    "slug": "vevor-diesel-heater-instructions-kw-fuel-wire-calculator",
+    "title": "Vevor Diesel Heater Instructions kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Vevor Diesel Heater Instructions.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-20"
+  },
+  {
+    "heater_name": "Small Truck Camper & RTT (150 Cu Ft) in Mild Winter (+25°F Outdoor)",
+    "slug": "small-truck-camper-rtt-150-cu-ft-in-mild-winter-25f-outdoor-kw-fuel-wire-calculator",
+    "title": "Small Truck Camper & RTT (150 Cu Ft) in Mild Winter (+25°F Outdoor) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.6L / 0.42 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.4 Hz) for Small Truck Camper & RTT (150 Cu Ft) in Mild Winter (+25°F Outdoor).",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.6,
+    "night_ah": 19.4,
+    "date": "2026-11-20"
   }
 ]
