@@ -625,5 +625,16 @@
     "night_l": 1.6,
     "night_ah": 19.4,
     "date": "2026-11-20"
+  },
+  {
+    "heater_name": "Small Truck Camper & RTT (150 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor)",
+    "slug": "small-truck-camper-rtt-150-cu-ft-in-sub-zero-arctic-20f-outdoor-kw-fuel-wire-calculator",
+    "title": "Small Truck Camper & RTT (150 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.6L / 0.42 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.4 Hz) for Small Truck Camper & RTT (150 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor).",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.6,
+    "night_ah": 19.4,
+    "date": "2026-11-21"
   }
 ]
