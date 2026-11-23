@@ -680,5 +680,27 @@
     "night_l": 1.7,
     "night_ah": 19.4,
     "date": "2026-11-22"
+  },
+  {
+    "heater_name": "Vevor Diesel Heater Installation",
+    "slug": "vevor-diesel-heater-installation-kw-fuel-wire-calculator",
+    "title": "Vevor Diesel Heater Installation kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Vevor Diesel Heater Installation.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-23"
+  },
+  {
+    "heater_name": "144 WB Campervan (280 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor)",
+    "slug": "144-wb-campervan-280-cu-ft-in-sub-zero-arctic-20f-outdoor-kw-fuel-wire-calculator",
+    "title": "144 WB Campervan (280 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for 144 WB Campervan (280 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor).",
+    "kw": 2.0,
+    "btu": 6820,
+    "night_l": 1.7,
+    "night_ah": 19.4,
+    "date": "2026-11-23"
   }
 ]
