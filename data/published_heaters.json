@@ -713,5 +713,16 @@
     "night_l": 1.7,
     "night_ah": 19.4,
     "date": "2026-11-24"
+  },
+  {
+    "heater_name": "170 EXT High-Roof Van (420 Cu Ft) in Mild Winter (+25°F Outdoor)",
+    "slug": "170-ext-high-roof-van-420-cu-ft-in-mild-winter-25f-outdoor-kw-fuel-wire-calculator",
+    "title": "170 EXT High-Roof Van (420 Cu Ft) in Mild Winter (+25°F Outdoor) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.0 kW / 13,650 BTU/hr), 10-hour fuel burn (2.6L / 0.69 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.3 Hz) for 170 EXT High-Roof Van (420 Cu Ft) in Mild Winter (+25°F Outdoor).",
+    "kw": 4.0,
+    "btu": 13650,
+    "night_l": 2.6,
+    "night_ah": 25.4,
+    "date": "2026-11-24"
   }
 ]
