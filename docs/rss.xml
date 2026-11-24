@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/diesel-heater-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>144 WB Campervan (280 Cu Ft) in High-Altitude Mountain (8,000 Ft) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/diesel-heater-index/144-wb-campervan-280-cu-ft-in-high-altitude-mountain-8000-ft-kw-fuel-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/diesel-heater-index/144-wb-campervan-280-cu-ft-in-high-altitude-mountain-8000-ft-kw-fuel-wire-calculator.html</guid>
+      <description>Calculate exact diesel heater output (2.0 kW / 6,820 BTU/hr), 10-hour fuel burn (1.7L / 0.45 gal), 12V battery draw (19.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (2.5 Hz) for 144 WB Campervan (280 Cu Ft) in High-Altitude Mountain (8,000 Ft).</description>
+    </item>
+    <item>
       <title>144 WB Campervan (280 Cu Ft) in Sub-Zero Arctic (-20°F Outdoor) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/diesel-heater-index/144-wb-campervan-280-cu-ft-in-sub-zero-arctic-20f-outdoor-kw-fuel-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/diesel-heater-index/144-wb-campervan-280-cu-ft-in-sub-zero-arctic-20f-outdoor-kw-fuel-wire-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/diesel-heater-index/diesel-heater-fuel-use-kw-fuel-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/diesel-heater-index/diesel-heater-fuel-use-kw-fuel-wire-calculator.html</guid>
       <description>Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Diesel Heater Fuel Use.</description>
-    </item>
-    <item>
-      <title>Diesel Heater Fuel Efficiency kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/diesel-heater-index/diesel-heater-fuel-efficiency-kw-fuel-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/diesel-heater-index/diesel-heater-fuel-efficiency-kw-fuel-wire-calculator.html</guid>
-      <description>Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Diesel Heater Fuel Efficiency.</description>
     </item>
   </channel>
 </rss>
