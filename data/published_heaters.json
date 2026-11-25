@@ -757,5 +757,38 @@
     "night_l": 2.6,
     "night_ah": 25.4,
     "date": "2026-11-25"
+  },
+  {
+    "heater_name": "Vevor Diesel Heater  Pdf",
+    "slug": "vevor-diesel-heater-pdf-kw-fuel-wire-calculator",
+    "title": "Vevor Diesel Heater  Pdf kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Vevor Diesel Heater  Pdf.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-25"
+  },
+  {
+    "heater_name": "Vevor Diesel Heater  Garage",
+    "slug": "vevor-diesel-heater-garage-kw-fuel-wire-calculator",
+    "title": "Vevor Diesel Heater  Garage kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.8 kW / 16,380 BTU/hr), 10-hour fuel burn (3.0L / 0.79 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.5 Hz) for Vevor Diesel Heater  Garage.",
+    "kw": 4.8,
+    "btu": 16380,
+    "night_l": 3.0,
+    "night_ah": 25.4,
+    "date": "2026-11-25"
+  },
+  {
+    "heater_name": "170 EXT High-Roof Van (420 Cu Ft) in High-Altitude Mountain (8,000 Ft)",
+    "slug": "170-ext-high-roof-van-420-cu-ft-in-high-altitude-mountain-8000-ft-kw-fuel-wire-calculator",
+    "title": "170 EXT High-Roof Van (420 Cu Ft) in High-Altitude Mountain (8,000 Ft) kW/BTU, Fuel Burn, 12V Wire & Altitude Hz Calculator (2026)",
+    "description": "Calculate exact diesel heater output (4.0 kW / 13,650 BTU/hr), 10-hour fuel burn (2.6L / 0.69 gal), 12V battery draw (25.4 Ah/night), E-01 10 AWG wire, and 8,000-ft altitude Hz (3.3 Hz) for 170 EXT High-Roof Van (420 Cu Ft) in High-Altitude Mountain (8,000 Ft).",
+    "kw": 4.0,
+    "btu": 13650,
+    "night_l": 2.6,
+    "night_ah": 25.4,
+    "date": "2026-11-25"
   }
 ]
